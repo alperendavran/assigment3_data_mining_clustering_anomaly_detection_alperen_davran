@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+seaborn
+nbformat
+nbclient
+jupyter
+sentence-transformers
+umap-learn
+hdbscan
+bertopic
